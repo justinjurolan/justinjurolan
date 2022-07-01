@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin!
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Node.Js
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Java
 
 <!---
 justinjurolan/justinjurolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
