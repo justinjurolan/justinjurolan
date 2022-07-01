@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin!
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming/ Software Development
 - 🌱 I’m currently learning Java
 
 <!---
