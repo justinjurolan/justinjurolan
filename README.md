@@ -3,7 +3,7 @@
 
 
 ## Live Demo of My Portfolio
-See the live demo of the project [here](https://justinjurolan.github.io/my-portfolio/).
+See the live demo of my project [here](https://justinjurolan.github.io/my-portfolio/).
 
 <!---
 justinjurolan/justinjurolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
